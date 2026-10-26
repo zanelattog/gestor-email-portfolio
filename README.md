@@ -8,7 +8,9 @@ Um aplicativo que desenvolvi para minha rotina de prospecção comercial, usando
 
 [Como funciona](#como-funciona-na-prática) · [Telas](#um-pouco-da-interface) · [Controles de envio](#dias-horários-e-ritmo-de-envio) · [IA no desenvolvimento](#um-projeto-híbrido-desde-o-começo)
 
-macOS · Intel e Apple Silicon · Dados locais · Código privado
+![macOS](https://img.shields.io/badge/macOS-Intel%20e%20Apple%20Silicon-0c2d48?style=flat-square)
+![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Aplicativo-16786b?style=flat-square)
+![Código privado](https://img.shields.io/badge/C%C3%B3digo-privado-596579?style=flat-square)
 
 </div>
 
