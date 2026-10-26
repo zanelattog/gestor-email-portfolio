@@ -4,7 +4,7 @@
 
 **Da planilha ao acompanhamento de cada conversa.**
 
-Um aplicativo que desenvolvi com apoio de IA e uso na minha rotina de prospecção comercial.
+Um aplicativo que desenvolvi para minha rotina de prospecção comercial, usando IA como orientação durante meu aprendizado.
 
 [Como funciona](#como-funciona-na-prática) · [Telas](#um-pouco-da-interface) · [Controles de envio](#dias-horários-e-ritmo-de-envio) · [IA no desenvolvimento](#um-projeto-híbrido-desde-o-começo)
 
@@ -14,13 +14,13 @@ macOS · Intel e Apple Silicon · Dados locais · Código privado
 
 ## Um projeto híbrido, desde o começo
 
-Quando comecei este aplicativo, eu ainda estava conhecendo as possibilidades da IA no desenvolvimento. Queria entender como ela poderia me ajudar a resolver um problema que eu tinha no trabalho.
+Quando comecei a desenvolver este aplicativo, eu ainda estava aprendendo a usar IA. No desenvolvimento original, ela entrou como um guia: um apoio para tirar dúvidas, entender caminhos e pensar nas soluções enquanto eu construía o que precisava para o meu trabalho.
 
-Foi uma construção híbrida: eu trouxe a necessidade, escolhi o que fazia sentido para a minha rotina e fui usando a IA para ajudar a desenvolver, revisar e melhorar o aplicativo. Não foi simplesmente pedir um sistema pronto e deixar todas as decisões com um agente.
+É nesse sentido que chamo o projeto de híbrido. Eu definia o problema, tomava as decisões e testava na prática; a IA me ajudava a aprender durante o processo.
 
-Esse foi um dos projetos em que percebi o impacto da IA na minha forma de trabalhar. Consegui transformar ideias e ajustes do dia a dia em uma ferramenta que uso na prospecção e no acompanhamento das conversas comerciais.
+O visual não está bonito — está longe do que eu gostaria. Naquele momento, minha prioridade era fazer funcionar e resolver minha necessidade. Preferi mostrar a interface como ela é, com o que funciona e o que ainda quero melhorar.
 
-A aparência ainda está longe do que eu gostaria. Preferi mostrar as telas como elas são, porque minha prioridade naquele momento era fazer funcionar. Os prints foram capturados com o aplicativo aberto; apenas os dados foram substituídos por exemplos para preservar a privacidade.
+As capturas mostram o aplicativo aberto, com dados fictícios para preservar a privacidade. A versão de apresentação e a adaptação recente para Apple Silicon foram preparadas com assistência de IA.
 
 ---
 
