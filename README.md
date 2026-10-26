@@ -6,11 +6,15 @@
 
 Um aplicativo que desenvolvi com apoio de IA e uso na minha rotina de prospecção comercial.
 
-macOS · Intel e Apple Silicon · Organização de contatos · E-mails personalizados
+[Como funciona](#como-funciona-na-prática) · [Telas](#um-pouco-da-interface) · [Controles de envio](#dias-horários-e-ritmo-de-envio) · [IA no desenvolvimento](#um-projeto-híbrido-desde-o-começo)
+
+macOS · Intel e Apple Silicon · Dados locais · Código privado
 
 </div>
 
 ![Visão geral do aplicativo com dados ilustrativos](imagens/dashboard.png)
+
+*Uma visão da rotina reunida em uma tela: contatos, campanhas e acompanhamento. Foi essa organização que procurei construir com apoio de IA.*
 
 > O aplicativo já é usado por mim. Para mostrar como ele funciona sem expor clientes, preparei uma versão de apresentação com empresas A, B e C e dados fictícios. Os números dos prints são exemplos, não resultados comerciais. Nessa versão, os envios estão desativados.
 
@@ -38,13 +42,39 @@ Fui construindo o aplicativo a partir dessa necessidade. Ele reúne a base de co
 
 ![Base de contatos com empresas A, B, C e D e endereços de exemplo](imagens/contacts.png)
 
-*Base ilustrativa: empresas e endereços fictícios, usada apenas para mostrar a organização dos contatos.*
+*Antes, a base era o ponto de partida na planilha. Aqui consigo revisar os contatos, separar as empresas e acompanhar o que ainda precisa ser preenchido. Empresa A, B, C e D são exemplos fictícios.*
 
 ### Campanhas e acompanhamento
 
 ![Tela de campanhas com uma campanha ilustrativa](imagens/campaigns.png)
 
-*Uma visão da campanha, do andamento das mensagens e dos controles disponíveis. Os registros desta imagem são simulados.*
+*O que antes exigia acompanhar envios e anotações em lugares diferentes fica reunido por campanha. Posso consultar o andamento e revisar pendências. Os registros desta imagem são simulados.*
+
+### Aparência que posso ajustar
+
+![Configurações de tamanho do texto, tema e limite diário](imagens/aparencia.png)
+
+*Além de colocar o fluxo para funcionar, fui acrescentando ajustes para o uso diário: tamanho do texto, tema claro ou escuro e limite de mensagens. A IA me ajudou a transformar essas necessidades em partes do aplicativo.*
+
+![Campanhas no tema escuro](imagens/tema-escuro.png)
+
+*É a mesma ferramenta no tema escuro. Posso escolher a aparência sem mudar a organização das campanhas.*
+
+## Dias, horários e ritmo de envio
+
+![Regras de envio com limite diário, intervalo em segundos, horário comercial e dias permitidos](imagens/dias-e-limites.png)
+
+*Em vez de depender só de controle manual, configuro os dias permitidos, o horário comercial, o máximo diário e quantos segundos devem separar o início de cada tentativa. Os valores da imagem são ilustrativos, não uma recomendação de volume.*
+
+O limite configurado no aplicativo não substitui as regras do provedor. Há controles para pausar campanhas, tratar falhas e respeitar respostas de limitação do servidor. Cada mensagem tem um destinatário, sem expor outros contatos em CC ou CCO.
+
+### Proteção contra repetição
+
+![Configuração de dias antes de permitir novo envio ao mesmo destinatário](imagens/protecao-reenvio.png)
+
+*Uma preocupação do meu fluxo é não abordar o mesmo contato repetidamente. Posso definir uma janela de dias antes de permitir um novo envio. A lista de não enviar e os pedidos de descadastro complementam esse cuidado.*
+
+Esses recursos ajudam a reduzir rajadas, repetições e abordagens indevidas. **Não garantem que uma mensagem ficará fora do spam**, nem tornam legítima uma lista obtida ou usada de forma inadequada. Relevância, origem dos contatos, autenticação do remetente e regras do provedor continuam importando.
 
 ## O que fui colocando no aplicativo
 
@@ -61,13 +91,21 @@ Fui construindo o aplicativo a partir dessa necessidade. Ele reúne a base de co
 | Painel e relatórios | Consultar o andamento da operação e exportar relatórios. |
 | Backup portátil | Transferir dados entre instalações, sem incluir as senhas de e-mail. |
 
-## Onde a IA entra
+## Um projeto híbrido, desde o começo
 
-Esse projeto representa bem o jeito que gosto de trabalhar: eu trago o problema do dia a dia, uso a IA como apoio para desenvolver e melhorar o aplicativo e testo o que foi feito no meu fluxo de trabalho.
+Quando comecei este aplicativo, eu ainda estava conhecendo as possibilidades da IA no desenvolvimento. Queria entender como ela poderia me ajudar a resolver um problema que eu tinha no trabalho.
 
-É uma construção híbrida. Uso a IA como ferramenta, enquanto continuo responsável pelas decisões, pela revisão e pelo uso do sistema. As rotinas de pesquisa e organização do aplicativo combinam automação e regras; não dependem de um agente decidindo tudo sozinho.
+Foi uma construção híbrida: eu trouxe a necessidade, escolhi o que fazia sentido para a minha rotina e fui usando a IA para ajudar a desenvolver, revisar e melhorar o aplicativo. Não foi simplesmente pedir um sistema pronto e deixar todas as decisões com um agente.
 
-Ainda tenho coisas para melhorar na aparência. Minha prioridade foi fazer algo útil, que me ajudasse a organizar a prospecção e acompanhar as conversas de venda.
+Esse foi um dos projetos em que percebi o impacto da IA na minha forma de trabalhar. Consegui transformar ideias e ajustes do dia a dia em uma ferramenta que uso na prospecção e no acompanhamento das conversas comerciais.
+
+A aparência ainda está longe do que eu gostaria. Preferi mostrar as telas como elas são, porque minha prioridade naquele momento era fazer funcionar. Os prints foram capturados com o aplicativo aberto; apenas os dados foram substituídos por exemplos para preservar a privacidade.
+
+## Descadastro e cuidado com os contatos
+
+![Configuração de leitura IMAP e descadastro na interface do aplicativo](imagens/descadastro.png)
+
+*Também incluí uma área para configurar a leitura de retornos e pedidos de descadastro. Na versão de uso, a conexão depende da configuração do provedor; nesta apresentação, nenhum serviço de e-mail é acessado.*
 
 ## Dados e uso responsável
 
