@@ -12,6 +12,18 @@ macOS · Intel e Apple Silicon · Dados locais · Código privado
 
 </div>
 
+## Um projeto híbrido, desde o começo
+
+Quando comecei este aplicativo, eu ainda estava conhecendo as possibilidades da IA no desenvolvimento. Queria entender como ela poderia me ajudar a resolver um problema que eu tinha no trabalho.
+
+Foi uma construção híbrida: eu trouxe a necessidade, escolhi o que fazia sentido para a minha rotina e fui usando a IA para ajudar a desenvolver, revisar e melhorar o aplicativo. Não foi simplesmente pedir um sistema pronto e deixar todas as decisões com um agente.
+
+Esse foi um dos projetos em que percebi o impacto da IA na minha forma de trabalhar. Consegui transformar ideias e ajustes do dia a dia em uma ferramenta que uso na prospecção e no acompanhamento das conversas comerciais.
+
+A aparência ainda está longe do que eu gostaria. Preferi mostrar as telas como elas são, porque minha prioridade naquele momento era fazer funcionar. Os prints foram capturados com o aplicativo aberto; apenas os dados foram substituídos por exemplos para preservar a privacidade.
+
+---
+
 ![Visão geral do aplicativo com dados ilustrativos](imagens/dashboard.png)
 
 *Uma visão da rotina reunida em uma tela: contatos, campanhas e acompanhamento. Foi essa organização que procurei construir com apoio de IA.*
@@ -90,16 +102,6 @@ Esses recursos ajudam a reduzir rajadas, repetições e abordagens indevidas. **
 | Lista de não enviar e descadastro | Respeitar bloqueios e solicitações para não receber novas mensagens. |
 | Painel e relatórios | Consultar o andamento da operação e exportar relatórios. |
 | Backup portátil | Transferir dados entre instalações, sem incluir as senhas de e-mail. |
-
-## Um projeto híbrido, desde o começo
-
-Quando comecei este aplicativo, eu ainda estava conhecendo as possibilidades da IA no desenvolvimento. Queria entender como ela poderia me ajudar a resolver um problema que eu tinha no trabalho.
-
-Foi uma construção híbrida: eu trouxe a necessidade, escolhi o que fazia sentido para a minha rotina e fui usando a IA para ajudar a desenvolver, revisar e melhorar o aplicativo. Não foi simplesmente pedir um sistema pronto e deixar todas as decisões com um agente.
-
-Esse foi um dos projetos em que percebi o impacto da IA na minha forma de trabalhar. Consegui transformar ideias e ajustes do dia a dia em uma ferramenta que uso na prospecção e no acompanhamento das conversas comerciais.
-
-A aparência ainda está longe do que eu gostaria. Preferi mostrar as telas como elas são, porque minha prioridade naquele momento era fazer funcionar. Os prints foram capturados com o aplicativo aberto; apenas os dados foram substituídos por exemplos para preservar a privacidade.
 
 ## Descadastro e cuidado com os contatos
 
